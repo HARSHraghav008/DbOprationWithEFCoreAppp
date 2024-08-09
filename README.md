@@ -1,0 +1,1 @@
+# DbOprationWithEFCoreAppp
